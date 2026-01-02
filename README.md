@@ -1,4 +1,4 @@
-# 6th
+# 모바일프로그래밍 6주차 과제 - 나의 깃허브
 
 <img src="https://user-images.githubusercontent.com/62374317/80569251-7ccd0e80-8a33-11ea-9413-f7919f56313c.jpg" width="90%"></img>
 
